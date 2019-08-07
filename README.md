@@ -1,6 +1,5 @@
 # Gitflow
 Trying out git flow and recording all the equivalent git commands
-
 1] git flow init --showcommands
 
 Which branch should be used for bringing forth production releases?
